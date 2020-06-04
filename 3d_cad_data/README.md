@@ -20,6 +20,8 @@ RPLIDAR_A1とマウントの3Dモデルです。
 
 Raspberry Pi Mouseの3Dモデルです。
 
+Raspberry Pi 4Bを搭載したモデルも公開しています。
+
 ## RealsenseD435
 
 Realsense D435を搭載したRaspberry Pi Mouseの3Dモデルです。
