@@ -10,7 +10,7 @@ Raspberry Pi Mouseに装着できるバッテリーカバーの3Dモデルです
 
 [USB出力9軸IMUセンサモジュール](https://rt-net.jp/products/usb9imu/)を搭載できるマウントの3Dモデルです。
 
-搭載するには**TopPlate**が必要です。
+搭載するには[**TopPlate**](https://www.rt-shop.jp/index.php?main_page=product_info&cPath=1299_1395&products_id=3517)が必要です。
 
 ## RPLIDAR_A1
 
@@ -36,7 +36,7 @@ Raspberry Pi Mouseの上面に装着できるプレートの3Dモデルおよび
 
 URG-04LX-UG01の3Dモデルです。
 
-搭載するには**TopPlate**が必要です。
+搭載するには[**TopPlate**](https://www.rt-shop.jp/index.php?main_page=product_info&cPath=1299_1395&products_id=3517)が必要です。
 
 ## Wheel
 
