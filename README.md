@@ -11,3 +11,7 @@ Raspberry Piを使った左右独立二輪方式の小型移動プラットフ�
 [circuit diagram](./circuit_diagram)ディレクトリにはRaspberry Pi Mouseの回路図が入っています。
 
 デバイスドライバは[rt-net/RaspberryPiMouse](https://github.com/rt-net/RaspberryPiMouse)のリポジトリで管理されています。
+
+# LICENSE
+
+本リポジトリは[GNU General Public License v3.0](./LICENSE)で公開されています。
