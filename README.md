@@ -1,6 +1,6 @@
 # RaspberryPiMouse_Hardware
 
-<img src=https://github.com/rt-net/RaspberryPiMouse_Hardware/blob/images/raspimouse_3dmodel.png width=500px>
+<img src=https://rt-net.github.io/images/raspberry-pi-mouse/raspimouse_3dmodel.png width=500px>
 
 Raspberry Piを使った左右独立二輪方式の小型移動プラットフォームロボットのハードウェア情報をまとめたリポジトリです。
 
